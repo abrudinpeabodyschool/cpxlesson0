@@ -1,6 +1,6 @@
 ## Getting Started with the CPX
 
-This is your first introduction to the Cir
+This is your first introduction to the Circuit Playground Express
 
 ![Banner image](images/banner.png)
 
