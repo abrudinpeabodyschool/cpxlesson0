@@ -18,7 +18,6 @@ title: What you will need
 
 ### Extras
 
-- Camera Board 360 Gooseneck Mount (from [modmypi.com](https://www.modmypi.com/raspberry-pi/camera/camera-cases/camera-board-360-gooseneck-mount)) or equivalent
 
 --- /collapse ---
 
