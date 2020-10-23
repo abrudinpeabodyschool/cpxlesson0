@@ -1,4 +1,4 @@
-## Parent detector
+## Getting Started with the CPX
 
 How to use a Raspberry Pi to find out who's been in your room! Make a parent detector that uses a motion sensor to trigger video recording via the Raspberry Pi Camera Module.
 
@@ -11,10 +11,10 @@ title: What you will need
 ## What you will need
 
 ### Hardware
-- A Raspberry Pi
-- Raspberry Pi Camera Module
-- PIR motion sensor module (try [The Pi Hut](https://thepihut.com/products/pir-motion-sensor-module))
-- 3 or more female-to-female jumper wires (try [The Pi Hut](https://thepihut.com/products/adafruit-premium-female-female-jumper-wires-20-x-6-150mm))
+- A Circuit Playground Express
+- Caret
+- Beagle Term
+- Your Chromeboook
 
 ### Extras
 
