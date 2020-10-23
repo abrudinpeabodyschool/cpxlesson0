@@ -2,7 +2,7 @@
 
 This is your first introduction to the Circuit Playground Express
 
-![Banner image](images/banner.png)
+![Banner image](images/cpx.jpeg)
 
 --- collapse ---
 ---
